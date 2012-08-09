@@ -6,7 +6,6 @@ os_test/*
 .bundle
 Gemfile.lock
 gems/*
-bin/*
 iso/*
 iso
 *.ova
